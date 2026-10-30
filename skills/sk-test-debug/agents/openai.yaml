@@ -1,0 +1,4 @@
+interface:
+  display_name: "SK 검증·디버깅"
+  short_description: "오류를 재현하고 수정 전후 결과와 필요한 경계 입력을 확인합니다."
+  default_prompt: "$sk-test-debug 스킬로 오류를 재현해 수정하고 실제 검증 결과를 기록해줘."
