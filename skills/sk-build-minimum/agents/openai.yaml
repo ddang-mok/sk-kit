@@ -1,4 +1,0 @@
-interface:
-  display_name: "SK 최소 구현"
-  short_description: "기존 코드를 보존하며 중요한 입력부터 출력까지 작은 기능을 구현합니다."
-  default_prompt: "$sk-build-minimum 스킬로 가장 중요한 기능부터 작게 구현하고 실제 실행 결과를 확인해줘."

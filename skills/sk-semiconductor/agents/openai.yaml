@@ -1,4 +1,0 @@
-interface:
-  display_name: "SK 반도체 분석"
-  short_description: "수율·검사·결함·설비 데이터를 행 단위와 분모부터 정확하게 분석합니다."
-  default_prompt: "$sk-semiconductor 스킬로 데이터 계약과 재검사 정책을 확인하고 집계 결과를 검증해줘."
