@@ -1,0 +1,100 @@
+{
+  "name": "sk-kit",
+  "created": "2026-10-31",
+  "input_archives": [
+    {
+      "archive": "cofa-skills-original.zip",
+      "sha256": "fa8f0ec64e37daf2f598ac0bbc1bd0d790994a40e87d924d821547c9cfe204d6",
+      "files": [
+        {
+          "path": ".agents/skills/cofa-model-eval/SKILL.md",
+          "sha256": "4eaee1c7fa6e90c5d3e4d0c3f8532bc7eb803f9b1c976d158289513a34d419b1"
+        },
+        {
+          "path": ".agents/skills/cofa-semiconductor/references/data-contract.md",
+          "sha256": "cb1c29aa5813ad6f3c5631128adc3c4595ad8c037f454a8219e66d36c82a7093"
+        },
+        {
+          "path": ".agents/skills/cofa-semiconductor/references/investigation.md",
+          "sha256": "1b04a1e923eb65bd714b47e187894cd49403b3766f44e1bcc29e74883406db01"
+        },
+        {
+          "path": ".agents/skills/cofa-semiconductor/references/spc.md",
+          "sha256": "026e480c7bc0c7d6b513a501436e529975f86e13075ec97d18a7d66a7af6d774"
+        },
+        {
+          "path": ".agents/skills/cofa-semiconductor/SKILL.md",
+          "sha256": "03ce35ff20d6ce21099e025269b3cc058c594ba61f9ec464960038c5e77dac7d"
+        },
+        {
+          "path": "LICENSE",
+          "sha256": "81d5c277e283ba07e71662e36891893f0f07761cb16ba6d292462eecd0ae286c"
+        },
+        {
+          "path": "README.md",
+          "sha256": "5736bd3b5782b1fd9c110e2886cb496ed552a05cb4365d0f9d5369630de12ccd"
+        },
+        {
+          "path": "SOURCES.json",
+          "sha256": "5ae7ae671f13692a720b5c595b2e660f9d20e45016a2c7bf45215bd80a7e0a45"
+        }
+      ]
+    },
+    {
+      "archive": "hackathon-ai-toolkit-starter.zip",
+      "sha256": "7c7aea7ecf6d4bc0c1e086fdeacd9d02857f36de288710586dbbb4ffed3ad5f5",
+      "files": [
+        {
+          "path": "AGENTS.md",
+          "sha256": "9ecd451779073411be0a880ceba18faebf0c88371586aef8ea687be0bade28f6"
+        },
+        {
+          "path": "README.md",
+          "sha256": "22fe2ad918b4c164f38b8d724e13c6b5bd5712d36f6c56670ca0645acd2ee617"
+        },
+        {
+          "path": "checklists/final-check.md",
+          "sha256": "be4c45dd31128e9eb0a2bf470a3e0ac89b932c05ad1174478d9c2ae09105066b"
+        },
+        {
+          "path": "prompts/sample-prompts.md",
+          "sha256": "2d2300b4e316dad051eac5222297f0c88e7475a50cbfc26268f0c17933f40f0d"
+        },
+        {
+          "path": ".agents/skills/evidence-report/SKILL.md",
+          "sha256": "7517ab410dff5051aae1da0cb98721b45d022b68b0960cb1b5c3d5d1ca76f017"
+        },
+        {
+          "path": ".agents/skills/test-debug/SKILL.md",
+          "sha256": "33b66a013d01427822d39fab134138935b582781d49d2ee1fd3aeb977071e642"
+        },
+        {
+          "path": ".agents/skills/requirement-check/SKILL.md",
+          "sha256": "9937ec4a6014febcc299985b730d526a0a6e96b421a1b767416635cdba2a21b4"
+        },
+        {
+          "path": ".agents/skills/build-minimum/SKILL.md",
+          "sha256": "cb7eb7fdf8c824f97ac130d2cce91202ac0728dc7b0976739c0c64e02de26bd7"
+        },
+        {
+          "path": ".agents/skills/solution-plan/SKILL.md",
+          "sha256": "5800b204521d23706de3c2cec3363b5a20dc0867d5cd0ad3eb173b53732da7ef"
+        }
+      ]
+    }
+  ],
+  "changes": [
+    "7 source skills adapted and namespaced as sk-*",
+    "Added sk-kit workflow selection skill and 8 UI metadata files",
+    "Adapted shared instructions, prompts and checklist; added work-record template",
+    "Preserved Cofa MIT notice and source manifest",
+    "Replaced references to absent CLI/MCP implementations",
+    "Scoped competition-specific restrictions to actual applicable rules",
+    "Added optional non-overwriting PowerShell and Bash local skill installers",
+    "Web IDE/Bash-first README, exact git clone without extra directory argument or --depth",
+    "Originalized generic instruction skill text, checklist and prompts for public release; preserved original input provenance",
+    "Added PUBLISHING.md for pre-exam GitHub updates (never git push during exam)",
+    "Updated script examples and documented submission-scope caveat"
+  ],
+  "license_note": "Cofa-derived material keeps its included MIT copyright notice. Earlier starter inputs had no known license, so public-edition generic text has been rewritten; review third-party rights before publishing."
+}

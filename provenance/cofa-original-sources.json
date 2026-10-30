@@ -1,0 +1,44 @@
+{
+  "repository": "https://github.com/ripplelover/cofa-ready-kit",
+  "retrieved": "2026-10-31",
+  "license": "MIT",
+  "modified_upstream_content": false,
+  "files": [
+    {
+      "path": ".agents/skills/cofa-semiconductor/SKILL.md",
+      "upstream_path": "skills/cofa-semiconductor/SKILL.md",
+      "git_blob_sha": "2a0adb64e756ca9489f101cb012e2b719a4f9d17",
+      "source_url": "https://github.com/ripplelover/cofa-ready-kit/blob/main/skills/cofa-semiconductor/SKILL.md"
+    },
+    {
+      "path": ".agents/skills/cofa-model-eval/SKILL.md",
+      "upstream_path": "skills/cofa-model-eval/SKILL.md",
+      "git_blob_sha": "8b851cd4ff10c2f23680b1550b7c0bfdac52d79e",
+      "source_url": "https://github.com/ripplelover/cofa-ready-kit/blob/main/skills/cofa-model-eval/SKILL.md"
+    },
+    {
+      "path": ".agents/skills/cofa-semiconductor/references/data-contract.md",
+      "upstream_path": "skills/cofa-semiconductor/references/data-contract.md",
+      "git_blob_sha": "de7d522578a516fe2c2cd4dd702b86f9842370e8",
+      "source_url": "https://github.com/ripplelover/cofa-ready-kit/blob/main/skills/cofa-semiconductor/references/data-contract.md"
+    },
+    {
+      "path": ".agents/skills/cofa-semiconductor/references/spc.md",
+      "upstream_path": "skills/cofa-semiconductor/references/spc.md",
+      "git_blob_sha": "324d07feffc2e299073dc245a43bb313603a500f",
+      "source_url": "https://github.com/ripplelover/cofa-ready-kit/blob/main/skills/cofa-semiconductor/references/spc.md"
+    },
+    {
+      "path": ".agents/skills/cofa-semiconductor/references/investigation.md",
+      "upstream_path": "skills/cofa-semiconductor/references/investigation.md",
+      "git_blob_sha": "981f7135e0607c6994112112d0c8f34b2c94633b",
+      "source_url": "https://github.com/ripplelover/cofa-ready-kit/blob/main/skills/cofa-semiconductor/references/investigation.md"
+    },
+    {
+      "path": "LICENSE",
+      "upstream_path": "LICENSE",
+      "git_blob_sha": "7bf9b078ee8289cea0f19ee960890ff0fbf3ccd9",
+      "source_url": "https://github.com/ripplelover/cofa-ready-kit/blob/main/LICENSE"
+    }
+  ]
+}
